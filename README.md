@@ -1,4 +1,4 @@
-#Child Development Fact vs. Myth Classifier
+# Child Development Fact vs. Myth Classifier
 
 ## 📌 Project Overview
 This project implements a **Child Development Fact vs. Myth classification system** using **Bag-of-Words (BoW) with n-grams (1 to 3)** and a **Multinomial Naive Bayes (MNB) model**.  
